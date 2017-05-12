@@ -1,0 +1,10 @@
+$maincolor: #ffffff;
+
+.testing {
+	width: percentage(5/7);
+	background: $maincolor; 
+
+	.testing__box {
+		border: 1px;
+	}
+}
